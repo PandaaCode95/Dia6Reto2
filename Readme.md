@@ -1,3 +1,7 @@
+Hemos indicado que ignore los .png y las carpetas, lo guardamos y subimos al repositorio
+
+
+
 NO ME LEAS!!!!!!!!!!!!
 
 
